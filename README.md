@@ -1,2 +1,2 @@
-# RANS: Robust Autonomous Systems 
+# RAS: Robust Autonomous Systems 
 Uncertainty in Robotics
